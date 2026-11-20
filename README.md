@@ -1,4 +1,4 @@
-# CV web — Martha Alicia Herrera Gonzalez
+# CV Web — Martha A Herrera G
 
 Sitio personal de una sola página, bilingüe (español/inglés), creado con HTML, CSS y JavaScript vanilla para publicarse en GitHub Pages.
 
@@ -23,6 +23,3 @@ No se necesita un tema Jekyll ni un proceso de compilación. Si el repositorio y
 - Reemplaza el PDF en `assets/CV_Herrera.pdf` para actualizar la descarga.
 - Edita textos y datos de contacto directamente en `index.html`.
 - Los textos bilingües usan los atributos `data-es` y `data-en`.
-
-## Antes de publicar
-Verifica que el correo y el enlace de LinkedIn sean los que deseas hacer públicos. El teléfono no se incluyó porque el número del PDF parece estar incompleto o ser de ejemplo.
