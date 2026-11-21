@@ -3,11 +3,12 @@
 Sitio personal de una sola página, bilingüe (español/inglés), creado con HTML, CSS y JavaScript vanilla para publicarse en GitHub Pages.
 
 ## Archivos
-- `index.html`: contenido y estructura.
-- `style.css`: diseño responsive.
-- `script.js`: selector de idioma.
-- `assets/profile.jpg`: fotografía de perfil.
-- `assets/CV_Herrera.pdf`: CV descargable.
+- "index.html": contenido y estructura.
+- "style.css": diseño responsive.
+- "script.js": selector de idioma.
+- "assets/profile.jpg": fotografía de perfil.
+- "assets/CV_Herrera.pdf": CV descargable.
+- "assets/Resume_Herrera.pdf": CV descargable.
 
 ## Publicar en GitHub Pages
 1. Sube el contenido de esta carpeta a la raíz del repositorio (no la carpeta contenedora `cv_portfolio`).
