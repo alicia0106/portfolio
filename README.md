@@ -1,4 +1,4 @@
-# CV Web — Martha A Herrera G
+# CV Web
 
 Sitio personal de una sola página, bilingüe (español/inglés), creado con HTML, CSS y JavaScript vanilla para publicarse en GitHub Pages.
 
